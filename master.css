@@ -375,7 +375,7 @@ a[href*="lastSuccessfulBuild/artifact/target/"]:hover {
 
 #top-panel td > a {
     display: block;
-    background: url("hawk.png") 0 0 no-repeat;
+    background: url("recon.png") 0 0 no-repeat;
     display: block;
     width: 354px;
     height: 64px;
